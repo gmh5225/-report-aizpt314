@@ -6,7 +6,7 @@
 - **Optimization Enabled:** Yes with 200 runs
 - **Contract Address:** 0xbe779d420b7d573c08eee226b9958737b6218888
 - **EVM Version:** default
-- **Chain:** 56
+- **Chain:** BNB Smart Chain
 
 ## Source Code Structure
 ```
